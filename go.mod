@@ -9,7 +9,7 @@ require (
 	github.com/btcsuite/btcd v0.22.0-beta
 	github.com/cockroachdb/apd/v2 v2.0.2
 	github.com/coinbase/rosetta-sdk-go v0.7.2
-	github.com/confio/ics23/go v0.7.0
+	github.com/confio/ics23/go v0.9.0
 	github.com/cosmos/btcutil v1.0.4
 	github.com/cosmos/cosmos-proto v1.0.0-alpha7
 	github.com/cosmos/cosmos-sdk/api v0.1.0-alpha5
@@ -51,7 +51,7 @@ require (
 	github.com/tendermint/go-amino v0.16.0
 	github.com/tendermint/tendermint v0.35.2
 	github.com/tendermint/tm-db v0.6.6
-	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
+	golang.org/x/crypto v0.2.0
 	google.golang.org/genproto v0.0.0-20220222213610-43724f9ea8cf
 	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.28.0
@@ -130,12 +130,12 @@ require (
 	github.com/zondax/hid v0.9.1-0.20220302062450-5552068d2266 // indirect
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/net v0.0.0-20211208012354-db4efeb81f4b // indirect
+	golang.org/x/net v0.2.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.2.0 // indirect
+	golang.org/x/term v0.2.0 // indirect
+	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/api v0.63.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
