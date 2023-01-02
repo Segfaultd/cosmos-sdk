@@ -10,7 +10,7 @@ require (
 	github.com/cockroachdb/apd/v2 v2.0.2
 	github.com/coinbase/rosetta-sdk-go v0.7.2
 	github.com/confio/ics23/go v0.7.0
-	github.com/cosmos/btcutil v1.0.4
+	github.com/cosmos/btcutil v1.0.5
 	github.com/cosmos/cosmos-proto v1.0.0-alpha7
 	github.com/cosmos/cosmos-sdk/api v0.1.0-alpha5
 	github.com/cosmos/cosmos-sdk/db v1.0.0-beta.1
