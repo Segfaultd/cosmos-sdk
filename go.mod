@@ -14,7 +14,7 @@ require (
 	github.com/99designs/keyring v1.2.1
 	github.com/RoaringBitmap/roaring/v2 v2.15.0
 	github.com/bgentry/speakeasy v0.2.0
-	github.com/bits-and-blooms/bitset v1.24.4
+	github.com/bits-and-blooms/bitset v1.24.6
 	github.com/chzyer/readline v1.5.1
 	github.com/cockroachdb/errors v1.12.0
 	github.com/cometbft/cometbft v0.39.0-beta.3
