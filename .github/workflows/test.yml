@@ -19,7 +19,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -53,7 +53,7 @@ jobs:
         part: ["00", "01", "02", "03"]
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -87,7 +87,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -118,7 +118,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -272,7 +272,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -305,7 +305,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -333,7 +333,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -361,7 +361,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: false
@@ -389,7 +389,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -417,7 +417,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -445,7 +445,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -473,7 +473,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -501,7 +501,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -529,7 +529,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -558,7 +558,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
@@ -590,7 +590,7 @@ jobs:
     runs-on: depot-ubuntu-22.04-4
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-go@v6
+      - uses: actions/setup-go@v7
         with:
           go-version: "1.25.8"
           check-latest: true
